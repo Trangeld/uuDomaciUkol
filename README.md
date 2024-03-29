@@ -1,2 +1,3 @@
 # uuDomaciUkol
-Domácí úkol do BE a FE
+
+Domácí úkol do BE a FE a další experimenty
